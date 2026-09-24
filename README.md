@@ -42,6 +42,7 @@ Two models were trained and compared:
 * `hr_scaler.pkl`: The exported StandardScaler object.
 * `app.py`: The Streamlit web application script.
 * `requirements.txt`: Dependencies required to run the web app on Streamlit Cloud.
+**Project Presentation:** [View Slide Deck (PDF)](./IBM_HR_Attrition_Presentation.pdf)
 
 ## 🚀 How to Run Locally
 To run this project on your local machine:
